@@ -1,6 +1,8 @@
-## Hi there 👋
-# Tell me something new!
-### Stats
+# Hi there 👋
+
+## Tell me something new!
+
+### My Stats
 
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbuuYaziyd&theme=radical" alt="GitHub Stats" />
