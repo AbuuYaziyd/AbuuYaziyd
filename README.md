@@ -2,7 +2,6 @@
 
 ### Stats
 
-<div>
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbuuYaziyd" alt="GitHub Stats" />
     
@@ -12,4 +11,3 @@
   
    ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbuuYaziyd&theme=github_dark)
   </p>
-</div>
