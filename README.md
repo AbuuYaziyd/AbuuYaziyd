@@ -16,5 +16,5 @@
   
   <p align="center">
     
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbuuYaziyd&layout=compact&theme=radical](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbuuYaziyd&theme=radical" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbuuYaziyd&theme=radical" />
   </p>
