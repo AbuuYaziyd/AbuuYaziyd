@@ -3,7 +3,7 @@
 ### Stats
 
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbuuYaziyd" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbuuYaziyd&theme=radical" alt="GitHub Stats" />
   </p>
     
   <p align="center">
