@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## Tell me something new!
+## Tell me something New and Awesome🎉
 
 ### My Stats
 
